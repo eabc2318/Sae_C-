@@ -6,7 +6,7 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?500628F6E93942BBA150C3651
 
 mathias.m2502@gmail.com
 mankaiadam145@gmail.com
-bouyaninho@gmai.com
+bouyaninho@gmail.com
 
 sudo apt-get update && sudo apt-get install build-essential
 
